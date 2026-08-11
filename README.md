@@ -23,7 +23,7 @@ A FastAPI backend with **two REST APIs**: a **Document Ingestion API** for uploa
 ### 1. Clone & install
 
 ```bash
-git clone <repo-url>
+git clone [<repo-url>](https://github.com/AbiralTimalsina/Document-Ingestion-and-Conversational-API)
 cd "Document Ingestion API"
 python3 -m venv venv
 source venv/bin/activate
