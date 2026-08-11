@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+sqlalchemy
+python-multipart
+pydantic-settings
+python-dotenv
+PyMuPDF
+sentence-transformers
+qdrant-client
+aiofiles
+openai
+redis
